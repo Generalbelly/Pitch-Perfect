@@ -1,0 +1,8 @@
+[
+ {
+  "file": "/Users/shimmennobuyoshi/Downloads/Pitch-Perfect-master/Pitch Perfect/PlaySoundsViewController.swift",
+  "offset": 1674,
+  "remove": 455,
+  "text": "do {\n            try engine.startAndReturnError()\n        } catch _ {\n        }\n        playerNode.play()\n\n    }\n\n    @IBAction func stopButtonTouched(sender: UIButton) {\n\n        audioPlayer.stop()\n        playerNode.stop()\n\n    }\n    \n\n    override func viewDidLoad() {\n\n        super.viewDidLoad()\n        audioPlayer = try? AVAudioPlayer(contentsOfURL: audioFile.filePathUrl)\n        audioPlayer.enableRate = true\n        avAudioFile = try? AVAudioFile(forReading: audioFile.filePathUr",
+ }
+]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "6fd5c4185c8abf3ec59dba80e78665bf"
+build_time: [498147443, 469498000]
+inputs: 
+	"/Users/shimmennobuyoshi/Downloads/Pitch-Perfect-master/Pitch PerfectTests/Pitch_PerfectTests.swift": [481879672, 0]

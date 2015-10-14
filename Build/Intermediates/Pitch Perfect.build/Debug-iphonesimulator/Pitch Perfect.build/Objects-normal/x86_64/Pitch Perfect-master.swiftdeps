@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "8488fcedd802bbd7e7925b613bad9392"
+build_time: [498147152, 13293000]
+inputs: 
+	"/Users/shimmennobuyoshi/Downloads/Pitch-Perfect-master/Pitch Perfect/PlaySoundsViewController.swift": [498147092, 0]
+	"/Users/shimmennobuyoshi/Downloads/Pitch-Perfect-master/Pitch Perfect/RecordedAudio.swift": [481879672, 0]
+	"/Users/shimmennobuyoshi/Downloads/Pitch-Perfect-master/Pitch Perfect/AppDelegate.swift": [481879672, 0]
+	"/Users/shimmennobuyoshi/Downloads/Pitch-Perfect-master/Pitch Perfect/RecordSoundsViewController.swift": [498146701, 0]
